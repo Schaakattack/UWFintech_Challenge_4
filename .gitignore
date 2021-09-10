@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore jupyter lab checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
