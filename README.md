@@ -14,5 +14,5 @@ matplotlib
 
 ---
 ## Contributors
-Jacob Vissering
+chandler Schaak
 
